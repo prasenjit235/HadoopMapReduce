@@ -1,0 +1,2 @@
+This code project includes example for explaining Map Reduce for Big Data Analysis. 
+The details can be found in blog 'http://prasenjitdas235.blogspot.in/2013/03/hadoop-map-reduce-in-cluster-mode.html' 
